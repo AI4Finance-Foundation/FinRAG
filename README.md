@@ -1,1 +1,1 @@
-# FinRAG
+# FinRAG: Financial Retrieval Augmented Generation
