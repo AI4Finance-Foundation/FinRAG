@@ -1,0 +1,14 @@
+langchain==0.1.16
+pymilvus==2.3.7
+loguru==0.7.2
+paddlepaddle-gpu==2.6.0
+paddleocr==2.7.0.3
+PyMuPDF
+unstructured==0.13.4
+pdf2image==1.17.0
+pdfminer.six==20231228
+pillow_heif==0.16.0
+pikepdf==8.15.1
+
+sentence_transformers==2.7.0
+langchain-openai==0.1.4
