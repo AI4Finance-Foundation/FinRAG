@@ -1,11 +1,8 @@
 # FinRAG: Financial Retrieval Augmented Generation
-<!--
- * @Author: wangjia
- * @Date: 2024-05-19 00:00:00
- * @LastEditors: wangjia
- * @LastEditTime: 2024-05-26 02:36:18
- * @Description: file content
--->
+
+[![](https://dcbadge.vercel.app/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
+
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=FinRAG&countColor=%23B17A)
 
 ## 1. 准备工作
 
