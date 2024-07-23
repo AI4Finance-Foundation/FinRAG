@@ -1,0 +1,59 @@
+
+POST http://127.0.0.1:8000/update_vector/ HTTP/1.1
+Content-Type: application/json;charset=utf-8
+
+{
+    "sysCategory": [
+        {
+            "categoryId": "20026250115495299645444018",
+            "categoryName": "基础医学",
+            "categoryType": "KNOWLEDGE_CATEGORY",
+            "cid": "sinodata",
+            "description": "",
+            "gmtCreate": 1716281565000,
+            "gmtModified": 1716291331000,
+            "id": "2",
+            "isDeleted": 1,
+            "level": 1,
+            "parentId": "0",
+            "path": "/0/20026250115495299645444018",
+            "sort": 1,
+            "subCategory": [
+                {
+                    "categoryId": "20026250120594315018249896",
+                    "categoryName": "解刨学",
+                    "categoryType": "KNOWLEDGE_CATEGORY",
+                    "cid": "sinodata",
+                    "description": "",
+                    "fileStorages": [
+                        {
+                            "categoryId": "20026250120594315018249896",
+                            "cid": "sinodata",
+                            "fileId": "20036265406996757872647591",
+                            "fileMeatData": "null",
+                            "fileName": "临床实地局部解剖学.pdf",
+                            "fileSize": -1,
+                            "fileSuffix": "pdf",
+                            "gmtCreate": 1716646143000,
+                            "gmtModified": 1716646143000,
+                            "id": "1",
+                            "isDeleted": 1,
+                            "publicRead": 2,
+                            "storagePath": "stream/88/15/00106265406971424276483376.pdf",
+                            "storageType": 1
+                        }
+                    ],
+                    "gmtCreate": 1716281687000,
+                    "gmtModified": 1716291353000,
+                    "id": "8",
+                    "isDeleted": 1,
+                    "level": 2,
+                    "parentId": "20026250115495299645444018",
+                    "path": "/0/20026250115495299645444018/20026250120594315018249896",
+                    "sort": 1
+                }
+            ]
+        }
+    ],
+    "syncId": "20036268858974255185924634"
+}

@@ -1,0 +1,18 @@
+
+POST http://127.0.0.1:8000/chat/ HTTP/1.1
+Content-Type: application/json;charset=utf-8
+
+{"chatId":"20046261673390243840005710",
+"chatMessages":[
+    {
+        "chatMessageId": "m00001",
+        "role": "SYSTEM",
+        "rawContent": "你是⼀个医疗助⼿"
+        },
+    {"chatId":"20046261673390243840005710","chatMessageId":"20056261758441543434247063",
+    "cid":"sinodata","gmtCreate":1716559155000,"gmtModified":1716559155000,"id":"4","isDeleted":1,"rating":1,"rawContent":"我感冒了.我需要吃什么药","role":"USER","tokensUsed":0},
+    {"chatId":"20046261673390243840005710","chatMessageId":"20056261758454000517126380","cid":"sinodata","gmtCreate":1716559155000,"gmtModified":1716559155000,"id":"5","isDeleted":1,"rating":1,"rawContent":"你好,今天天气很棒啊!","role":"ASSISTANT","tokensUsed":0},
+    {"chatId":"20046261673390243840005710","chatMessageId":"20056261759779903897609217","cid":"sinodata","rawContent":"病毒的定义及其特点?","role":"USER"}],
+    "chatName":"知识问答助手","initInputs":
+    {"topK":1,"score":10,"categoryIds":["20026250122028766986246526,20026250123269316280320966","20026250129949416488964807"],"language":"zh"},
+    "initOpening":["我是知识问答助手","你有什么想问我的吗?"],"ownerId":"123213123"}

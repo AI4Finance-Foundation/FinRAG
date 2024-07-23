@@ -1,0 +1,56 @@
+
+{
+  "sysCategory" : [
+    {
+      "fileStorages" : [
+        {
+          "fileId" : "file00004",
+          "fileName" : "py⼊⻔到放弃",
+          "storagePath" : "stream/78/65/00106250790864562421764687.pdf",
+          "fileSuffix" : "pdf",
+          "publicUrl" : "http:\/\/www.baidu.com\/xxx\/xxx\/xxxpy.txt",
+          "fileSize" : "123456"
+        },
+        {
+          "fileId" : "file00005",
+          "fileName" : "py⼊⻔到放弃2",
+          "storagePath" : "\/xxx\/xxx\/xxx2.txt",
+          "fileSuffix" : "txt",
+          "publicUrl" : "http:\/\/www.baidu.com\/xxx\/xxx\/xxxpy2.txt",
+          "fileSize" : "123456"
+        }
+      ],
+      "subCategory" : [
+        {
+          "fileStorages" : [
+            {
+              "fileId" : "file00004",
+              "fileName" : " 《医学病毒学》知识图谱-231229",
+              "storagePath" : "stream/40/86/00106250791926853795844449.docx",
+              "fileSuffix" : "docx",
+              "publicUrl" : "http:\/\/www.baidu.com\/xxx\/xxx\/xxxpy.txt",
+              "fileSize" : "123456"
+            },
+            {
+              "fileId" : "file00005",
+              "fileName" : "《学生手册》2023版",
+              "storagePath" : "stream/85/11/00106250792497027481606005.pdf",
+              "fileSuffix" : "pdf",
+              "publicUrl" : "http:\/\/www.baidu.com\/xxx\/xxx\/xxxpy2.txt",
+              "fileSize" : "123456"
+            }
+          ],
+          "categoryId" : "234324234",
+          "parentId" : "1010010101",
+          "categoryName" : "⼆级分类"
+        }
+      ],
+      "categoryId" : "1010010101",
+      "parentId" : "0",
+      "categoryName" : "⼀级分类",
+      "level" : 1
+    }
+  ],
+  "syncId" : "123"
+}
+

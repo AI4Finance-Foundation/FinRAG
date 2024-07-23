@@ -1,0 +1,35 @@
+
+POST http://60.205.147.142:8000/chat/ HTTP/1.1
+Content-Type: application/json;charset=utf-8
+
+{
+    "chatId": "20046261673390243840005710",
+    "chatMessages": [
+        {
+        "chatMessageId": "m00001",
+        "role": "SYSTEM",
+        "rawContent": "你是⼀个医疗助⼿"
+        },
+        {
+            "chatId": "20046261673390243840005710",
+            "chatMessageId": "20056261711947348049925987",
+            "cid": "sinodata",
+            "rawContent": "我感冒了吃什么药",
+            "role": "USER"
+        }
+    ],
+    "chatName": "知识问答助手",
+    "initInputs": {
+        "topK": 1,
+        "score": 10,
+        "categoryIds": [
+            "20026250115495299645444018,1010010101"
+        ],
+        "language": "zh"
+    },
+    "initOpening": [
+        "我是知识问答助手",
+        "你有什么想问我的吗?"
+    ],
+    "ownerId": "123213123"
+}
